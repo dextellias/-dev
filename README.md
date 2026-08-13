@@ -1,2 +1,1 @@
-# -DEV
-Siber Güvenlik
+Siber Güvenlik öğrenmeye başladım
